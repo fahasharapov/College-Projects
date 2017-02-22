@@ -15,7 +15,6 @@ int main(){
 		cout << setw(12) << kilograms << setw(12) << kilograms * 2.2 << setw(6) << "|" << setw(12) << pounds << setw(12) << pounds / 2.2 << endl;
 		//kilograms += 2; pounds += 5; count++;
 	}
-
 	
 	system("pause");
 	return 0;
